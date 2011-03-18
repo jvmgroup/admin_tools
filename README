@@ -1,0 +1,8 @@
+My Admin Tools Collection
+=========================
+
+- gen_redmine_csv.sh: A simple user CSV generator for the redmein user
+                      import plugin. 
+
+Anson Chen <ansoncat@gmail.com>
+18th March 2011.
